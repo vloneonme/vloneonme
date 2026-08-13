@@ -1,4 +1,4 @@
-## crsd&blssd&trnqd [![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=flat-square&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
+## crsd&blssd&trnqd
 
 <!--
 **vloneonme/vloneonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=flat-square&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
+# [![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=flat-square&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 
 
-[![Get VPN Access](https://img.shields.io/badge/Бесплатный%20VPN%20-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/trankvpn_bot)
+# [![Get VPN Access](https://img.shields.io/badge/Бесплатный%20VPN%20-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/trankvpn_bot)
