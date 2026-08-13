@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=flat-square&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
+
+
+[![Get VPN Access](https://img.shields.io/badge/Get%20VPN%20Access-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/trankvpn_bot)
