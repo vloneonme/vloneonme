@@ -1,4 +1,5 @@
-## crsd&blssd&trnqd
+## crsd&blssd&trnqd [![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=flat-square&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
+
 <!--
 **vloneonme/vloneonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
